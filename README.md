@@ -7,7 +7,9 @@ This repository is for providing information about the organization, its work st
 ### Terminologies used
 
 **Problem:** A Problem is specifically a task which is client specific which involves requirements of creation, production, development of an efficient, production level solution, client approaches to the Simple IT solutions for its solution.
+
 **Client:** A Client is a person/organization who wants to provide an efficient, production level solution to its problem/requirements.
+
 <--TO BE EXTENDED-->
 
 ### Solution domains
