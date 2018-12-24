@@ -1,4 +1,4 @@
-# Simple IT solutions
+# Simple Education solutions
 
 ## Repository: About the organization
 
